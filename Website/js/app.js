@@ -1,0 +1,1 @@
+$.backstretch("img/flightscape_unknown.jpeg");
